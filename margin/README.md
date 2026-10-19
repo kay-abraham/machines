@@ -4,7 +4,7 @@ I rebuilt Finance's gross margin report from the raw warehouse tables and matche
 
 | Job | Status | Built with | Page |
 |---|---|---|---|
-| Price | Shipped | SQL on Snowflake | [kayabraham.com/machines/margin](https://kayabraham.com/machines/margin/) |
+| Price | Done | SQL on Snowflake | [kayabraham.com/machines/margin](https://kayabraham.com/machines/margin/) |
 
 ## Problem
 
@@ -65,7 +65,7 @@ Dashed lines and dashed boxes are guards. Finance's own report is the guard here
 
 ## History
 
-- **October 2, 2026.** Done.
+- **October 2026.** Done.
 
 ---
 
