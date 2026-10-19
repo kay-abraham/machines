@@ -4,7 +4,7 @@ Shared queries any Product Advocate runs with parameters, so pricing and usage q
 
 | Job | Status | Built with | Page |
 |---|---|---|---|
-| Price | Live | SQL, Redash | [kayabraham.com/machines/sql-library](https://kayabraham.com/machines/sql-library/) |
+| Price | Running | SQL, Redash | [kayabraham.com/machines/sql-library](https://kayabraham.com/machines/sql-library/) |
 
 ## Problem
 
