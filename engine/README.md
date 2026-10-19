@@ -1,10 +1,10 @@
 # Expansion Engine
 
-Reads six live signal feeds, scores every account and hands each Product Advocate a ranked desk twice a day.
+Reads six live signal feeds, scores every account and hands each Product Advocate a ranked desk twice each weekday.
 
 | Job | Status | Built with | Page |
 |---|---|---|---|
-| Find | Live | Python, Apify, Slack, HubSpot, Snowflake | [kayabraham.com/machines/engine](https://kayabraham.com/machines/engine/) |
+| Find | Running | Python, Apify, Slack, HubSpot, Snowflake | [kayabraham.com/machines/engine](https://kayabraham.com/machines/engine/) |
 
 ## Problem
 
@@ -16,7 +16,7 @@ Three misses led here:
 
 ## Who uses it
 
-Seven Product Advocates at Apify, me included. Each one gets a desk of their own accounts twice each weekday. The report tab serves the wider company: it started as a colleague's request and was built for the company all-hands.
+Seven Product Advocates at Apify. Each one gets a desk of their own accounts twice each weekday. The report tab serves the wider company: it started as a colleague's request and was built for the company all-hands.
 
 ## How it works
 
@@ -88,7 +88,6 @@ Dashed lines and dashed boxes are guards.
 ## History
 
 - **July 2026.** The Engine starts running.
-- **October 2, 2026.** Desks go out for 7 Product Advocates, and the report tab goes live.
 - **October 2026.** 786 tests, run every night in GitHub Actions.
 
 ## What's next
