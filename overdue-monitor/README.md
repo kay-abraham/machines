@@ -4,7 +4,7 @@ Overdue invoices reach the right account manager in a daily digest, before finan
 
 | Job | Status | Built with | Page |
 |---|---|---|---|
-| Protect | Live | n8n, Redash, Slack | [kayabraham.com/machines/overdue-monitor](https://kayabraham.com/machines/overdue-monitor/) |
+| Protect | Running | n8n, Redash, Slack | [kayabraham.com/machines/overdue-monitor](https://kayabraham.com/machines/overdue-monitor/) |
 
 ## Problem
 
