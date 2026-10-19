@@ -4,7 +4,7 @@ Reads my desk twice a day, checks six systems before it writes, and drafts custo
 
 | Job | Status | Built with | Page |
 |---|---|---|---|
-| Agents | Live | Claude routines, n8n, Gmail | [kayabraham.com/machines/drafting-agent](https://kayabraham.com/machines/drafting-agent/) |
+| Agents | Running | Claude routines, n8n, Gmail | [kayabraham.com/machines/drafting-agent](https://kayabraham.com/machines/drafting-agent/) |
 
 ## Problem
 
