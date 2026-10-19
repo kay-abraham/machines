@@ -4,7 +4,7 @@ A six-stage Claude pipeline that turns a plain question into a cited brief, pric
 
 | Job | Status | Built with | Page |
 |---|---|---|---|
-| Ship | Live | Node.js, Claude, Apify | [kayabraham.com/machines/news-agent](https://kayabraham.com/machines/news-agent/) and [the Apify Store](https://apify.com/kay_abraham/news-intelligence-agent) |
+| Ship | Running | Node.js, Claude, Apify | [kayabraham.com/machines/news-agent](https://kayabraham.com/machines/news-agent/) and [the Apify Store](https://apify.com/kay_abraham/news-intelligence-agent) |
 
 ## Problem
 
