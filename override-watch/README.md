@@ -4,7 +4,7 @@ The account manager hears seven days before a custom price expires and talks to 
 
 | Job | Status | Built with | Page |
 |---|---|---|---|
-| Protect | Live | n8n, Redash, Slack | [kayabraham.com/machines/override-watch](https://kayabraham.com/machines/override-watch/) |
+| Protect | Running | n8n, Redash, Slack | [kayabraham.com/machines/override-watch](https://kayabraham.com/machines/override-watch/) |
 
 ## Problem
 
