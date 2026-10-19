@@ -1,6 +1,6 @@
 # Roadmap
 
-Two items are planned. Each one stays marked Planned until it ships.
+Two items are planned. Each one stays marked Planned until it runs.
 
 ## Trading system: Planned
 
@@ -16,7 +16,7 @@ These come from the paper ledger on [kayabraham.com](https://kayabraham.com).
 |---|---|
 | R1 | Paper first, for weeks, with written exit criteria before any real money. |
 | R2 | A daily loss cap. When the system hits it, it stops for the day, and the stop can't be overridden. |
-| R3 | Position size capped at 3x the account's equity. |
+| R3 | Leverage capped at 3x. |
 | R4 | A trade needs signal confluence: more than one independent signal has to agree. |
 | R5 | A kill switch I can hit from my phone. |
 | R6 | Every decision logged with its inputs, the reasoning and the outcome. |
