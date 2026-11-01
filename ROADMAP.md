@@ -6,7 +6,7 @@ Two items are planned. Each one stays marked Planned until it runs.
 
 A trading system built on the risk rules I've traded by for five years. It trades paper money first and moves to real money only once it earns it on paper. Every decision gets logged.
 
-Status today: planning. The code isn't written yet, no accounts are connected and no money is involved.
+Status today: paper only. A paper trader is built and tests two trend rules; no exchange accounts are connected and no real money is involved.
 
 ### The rules
 
